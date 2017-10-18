@@ -26,7 +26,7 @@ git clone  https://github.com/itguide/fe10.git .
             在这个里面写的东西，讲不会推送到远程
     git add . # 把本地的文件添加到仓库
     git commit -am"本次提交的注释" #本次提交的注释
-    git remote add origin https://github.com/itguide/fe10.git # 给本地的仓库加上远程地址
+    git remote add origin https://github.com/guomian119/fe10.git # 给本地的仓库加上远程地址
 
     git push origin master # 把提交后的代码推送到远程仓库，后面是分支名字，想推送哪个分支就写哪个分支名字
 
